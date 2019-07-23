@@ -14,7 +14,7 @@ NERGRIT is machine learning based NLP Tools used for Indonesian Named Entity Rec
 Open this link => https://ner.grit.id/index.php/front/about
 and click "GET NERGRIT CORPUS"
 ## How to Use
-Better use Python 3 and use your GPU or CPU for training, and run the following on your OS:
+Better use Python 3 and use your GPU instead of CPU for training, and run the following on your OS:
 ```bash
 pip install virtualenv
 ```
