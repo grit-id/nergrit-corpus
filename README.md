@@ -61,7 +61,7 @@ Try the model with:
 ```bash
 python test_data.py
 ```
-if you want optimization model you can create `glove` from wikipedia Indonesia or any Indonesian articles.
+If you demand the model to be optimized more, you can create `glove` from wikipedia Indonesia or any Indonesian articles.
 #### Copyright (C) 2019 NERGRIT DEVELOPERS
 `Coach`:
   - Riyanti Kusumawati
