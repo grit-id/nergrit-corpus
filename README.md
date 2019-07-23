@@ -11,7 +11,7 @@ NERGRIT is machine learning based NLP Tools used for Indonesian Named Entity Rec
   - Sentiment Analysis: ~ 75%
 
 ## Download
-Open this link => https://nergrit.addnotes.id/index.php/front/about
+Open this link => https://ner.grit.id/index.php/front/about
 and click "GET NERGRIT CORPUS"
 ## How to Use
 Better use Python 3 and use your GPU or CPU for training, and run the following on your OS:
