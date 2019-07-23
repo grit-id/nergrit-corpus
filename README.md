@@ -14,13 +14,14 @@ NERGRIT is machine learning based NLP Tools used for Indonesian Named Entity Rec
 Open this link => https://ner.grit.id/index.php/front/about
 and click "GET NERGRIT CORPUS"
 ## How to Use
-Better use Python 3 and use your GPU instead of CPU for training, and run the following on your OS:
+Better use Python 3 and use your GPU or CPU for training, and run the following on your OS:
 ```bash
 pip install virtualenv
 ```
 Virtual Enviroment for `NER` and `Statement` using Anago version 1.0.8 :
 ```bash
-cd open-source 
+cd nergrit-corpus
+mkdir venv
 virtualenv venv
 source venv/bin/activate
 pip install anago
@@ -47,7 +48,8 @@ python tag_statetement.py
 
 Virtual Enviroment for `Sentiment` using Anago version 0.0.5 :
 ```bash
-cd open-source 
+cd nergrit-corpus
+mkdir venvold
 virtualenv venvold
 source venvold/bin/activate
 pip install anago==0.0.5
@@ -70,7 +72,7 @@ If you demand the model to be optimized more, you can create `glove` from wikipe
   - Dr. Yudi Wibisono <yudi1975@gmail.com>
  
 `Lead Developer`:
-  - Husni Fahmi, Ph.D <husnifahmi@outlook.com>
+  - Dr. Husni Fahmi <husnifahmi@outlook.com>
  
  `Developer`:
   - Muhamad Jumadil Akbar, S.Kom <jumadil.akbar@grit.id>
@@ -78,7 +80,6 @@ If you demand the model to be optimized more, you can create `glove` from wikipe
   - Irfan Fadil <kaisa.ads88@gmail.com>
   - Ridwan Dwiki Ardiansyah <ridwan.dwiki@grit.id>
   - Irfan Fakri Ardian <irfan.fakri@grit.id>
-  - Harits Abdurrohman <iceramngl@gmail.com>
 
 `Annotator`:
   - Panca Agung Kusuma <panca.kusuma@grit.id>
