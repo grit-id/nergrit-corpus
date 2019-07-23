@@ -70,7 +70,7 @@ If you demand the model to be optimized more, you can create `glove` from wikipe
   - Dr. Yudi Wibisono <yudi1975@gmail.com>
  
 `Lead Developer`:
-  - Dr. Husni Fahmi <husnifahmi@outlook.com>
+  - Husni Fahmi, Ph.D <husnifahmi@outlook.com>
  
  `Developer`:
   - Muhamad Jumadil Akbar, S.Kom <jumadil.akbar@grit.id>
@@ -78,6 +78,7 @@ If you demand the model to be optimized more, you can create `glove` from wikipe
   - Irfan Fadil <kaisa.ads88@gmail.com>
   - Ridwan Dwiki Ardiansyah <ridwan.dwiki@grit.id>
   - Irfan Fakri Ardian <irfan.fakri@grit.id>
+  - Harits Abdurrohman <iceramngl@gmail.com>
 
 `Annotator`:
   - Panca Agung Kusuma <panca.kusuma@grit.id>
