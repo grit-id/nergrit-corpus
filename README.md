@@ -36,7 +36,7 @@ Try the model with:
 python tag.py
 ```
 
-Traning the model for `Statement Analysis` with:
+Traning the model for `Statement Extraction` with:
 ```bash
 cd statement/
 python make_model.py
@@ -46,7 +46,7 @@ Try the model with:
 python tag_statetement.py
 ```
 
-Virtual Enviroment for `Sentiment` using Anago version 0.0.5 :
+Virtual Enviroment for `Sentiment Analysis` using Anago version 0.0.5 :
 ```bash
 cd nergrit-corpus
 mkdir venvold
