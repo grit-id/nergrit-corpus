@@ -14,7 +14,7 @@ NERGRIT is machine learning based NLP Tools used for Indonesian Named Entity Rec
 Open this link => https://ner.grit.id/index.php/front/about
 and click "GET NERGRIT CORPUS"
 ## How to Use
-Better use Python 3 and use your GPU or CPU for training, and run the following on your OS:
+Better use Python 3 and use your GPU instead of CPU for training, and run the following on your OS:
 ```bash
 pip install virtualenv
 ```
@@ -63,7 +63,7 @@ Try the model with:
 ```bash
 python test_data.py
 ```
-If you demand the model to be optimized more, you can create `glove` from wikipedia Indonesia or any Indonesian articles.
+If You demand the model to be optimized more, you can create `glove` from wikipedia Indonesia or any Indonesian articles.
 #### Copyright (C) 2019 NERGRIT DEVELOPERS
 `Coach`:
   - Riyanti Kusumawati
@@ -80,20 +80,22 @@ If you demand the model to be optimized more, you can create `glove` from wikipe
   - Irfan Fadil <kaisa.ads88@gmail.com>
   - Ridwan Dwiki Ardiansyah <ridwan.dwiki@grit.id>
   - Irfan Fakri Ardian <irfan.fakri@grit.id>
+  - Aldhiaz Fathra Daiva <dhiazfathra@gmail.com>
+  - Harits Abdurrohman <iceramngl@gmail.com>
 
 `Annotator`:
   - Panca Agung Kusuma <panca.kusuma@grit.id>
   - Hanif Razin <hanif.razin@grit.id>
   - Isnadi <isnadi24@gmail.com>
-  - Listia Apritami
   - Suwito <suwito@grit.id>
-  - Antonius Rony Hidajat
   - Hermawan Suheri <hermawan@grit.id>
   - Taqiyuddin Fahmi <muhammadtaqi@gmail.com>
-  - Nur Afdal
   - Ihsan Nur Kholis <ihsan.nurkholis@grit.id>
   - Aldi Alpian <aldi.alpian@grit.id>
   - Nur Rokhman <nurrokhman@grit.id>
   - Shyta Ramadhanty <shytaaramadhanty@gmail.com>
+  - Antonius Rony Hidajat
+  - Nur Afdal
+  - Listia Apritami
   
 Try NERGRIT at: https://ner.grit.id and visit us at https://grit.id/
