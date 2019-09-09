@@ -94,8 +94,13 @@ If You demand the model to be optimized more, you can create `glove` from wikipe
   - Aldi Alpian <aldi.alpian@grit.id>
   - Nur Rokhman <nurrokhman@grit.id>
   - Shyta Ramadhanty <shytaaramadhanty@gmail.com>
+  - Abdul Hamid <amitabduls@gmail.com>
   - Antonius Rony Hidajat
   - Nur Afdal
   - Listia Apritami
+
+  `Github Issue Reporter`:
+  - Yoga Yudistira <yudistirayoga97@gmail.com>
+
   
 Try NERGRIT at: https://ner.grit.id and visit us at https://grit.id/
